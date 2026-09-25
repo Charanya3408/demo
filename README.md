@@ -3,11 +3,6 @@
 <h3 align="center">🎓 2nd-Year Bioinformatics Student | 🤖 AI Minor | 💻 Hackathon Enthusiast</h3>
 
 <br/>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME" alt="YOUR_GITHUB_USERNAME" /></a>
-</p>
-
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently a **2nd-year Bioinformatics student** with a **minor in Artificial Intelligence**.
