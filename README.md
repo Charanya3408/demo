@@ -4,9 +4,6 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME" alt="YOUR_GITHUB_USERNAME" /></a>
-</p>
 
 ## 🧑‍💻 About Me
 
