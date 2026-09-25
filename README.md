@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Charanya 👋</h1>
 
 <h3 align="center">🎓 2nd-Year Bioinformatics Student | 🤖 AI Minor | 💻 Hackathon Enthusiast</h3>
 
@@ -16,7 +16,7 @@
 - 💼 I am actively looking for **tech internships and job opportunities** where I can contribute and grow my skills in software engineering and AI.
 - 🌱 Currently learning: Advanced Deep Learning, Genomics, and building scalable tech.
 - 💬 Ask me about: **Python, Machine Learning, Bioinformatics, and AI model training**.
-- 📫 How to reach me: **[Your Email]** | **[Your LinkedIn URL]**
+- 📫 How to reach me: **charanya3408@gmail.com** | **www.linkedin.com/in/charanya-m-590744371**
 
 ## 🛠️ Skills & Technologies
 
