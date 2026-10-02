@@ -1,11 +1,11 @@
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Charanya 👋</h1>
 
 <h3 align="center">🎓 2nd-Year Bioinformatics Student | 🤖 AI Minor | 💻 Hackathon Enthusiast</h3>
 
 <br/>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME" alt="YOUR_GITHUB_USERNAME" /></a>
+ 
 </p>
 
 ## 🧑‍💻 About Me
@@ -16,7 +16,7 @@
 - 💼 I am actively looking for **tech internships and job opportunities** where I can contribute and grow my skills in software engineering and AI.
 - 🌱 Currently learning: Advanced Deep Learning, Genomics, and building scalable tech.
 - 💬 Ask me about: **Python, Machine Learning, Bioinformatics, and AI model training**.
-- 📫 How to reach me: **[Your Email]** | **[Your LinkedIn URL]**
+- 📫 How to reach me: **charanya3408@gmail.com** | **www.linkedin.com/in/charanya-m-590744371**
 
 ## 🛠️ Skills & Technologies
 
@@ -39,20 +39,5 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical"/>
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
-</div>
-
-<br>
-<p align="center">
-  <i>"Leveraging the power of AI to decode biology and build impactful tech."</i>
-</p>
